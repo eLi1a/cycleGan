@@ -6,7 +6,8 @@ The goal is to translate real pictures to Monent style paintings and vice versa.
 ## example results after 20 epochs:
 - picture -> painting
 - painting -> picture 
-![alt text](image2paint_run/samples/epoch_020.png)
+![example result after 20 epochs](epoch_020.png)
+
 
 ## example of Joensuu campus and city pictures in painting:
 - Joensuu campus

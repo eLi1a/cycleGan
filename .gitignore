@@ -1,5 +1,5 @@
-*.jpg
-*.png
+image/
+image2paint_run/
 *.pth
 *.pt
 __pycache__/
